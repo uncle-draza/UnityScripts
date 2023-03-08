@@ -1,0 +1,14 @@
++++ INSTRUCTIONS +++
+
+-Create an empty GameObject
+-Add Line Renderer component to it
+-Adjust line settings if you whish
+-Add LineController script to the same object
+
+-Add Line Assigner script to your active camera (Main Camera by default)
+-Add your points (represented by GameObjects) to the "points" field
+
+-Remove [ExecuteInEditMode] attribute from both scripts if you only want them to run while your game is playing.
+-Otherwise, scripts will run in your scene view too.
+
+++++++++++++++++++++

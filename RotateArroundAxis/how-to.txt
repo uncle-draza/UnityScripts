@@ -1,0 +1,7 @@
++++ INSTRUCTIONS +++
+
+-Put this script on an object that you want to rotate around a certain axis.
+-Check around which axis you want your object to rotate around by clicking on rotateX/rotateY/rotateZ fields in inspector.
+-Set rotationg speed.
+
+++++++++++++++++++++
